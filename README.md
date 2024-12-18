@@ -7,7 +7,7 @@ The script is intended as a proof of concept and not for use in live environment
 Checking the reputation of IP addresses is a labor intensive activity. This script is designed to automate the process of extracting IP addresses from a PCAP file, checking their reputation against AbuseIPDB, and returning selected data.
 
 ## Main Components
-For full details, see the attached Word document. The main components of the script are as follows:
+For full details, see the Script Design file. The main components of the script are as follows:
 1. Capture network traffic and write it to a PCAP file.
 2. Extract IP addresses from the PCAP file and append them to an existing file containing known malicious IP addresses.
 3. Check the reputation of the IP addresses against AbuseIPDB using an API key contained in a separate file (not attached).
