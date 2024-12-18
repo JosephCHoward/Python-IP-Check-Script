@@ -4,7 +4,7 @@ This script was created as the capstone project for the Security Scripting cours
 ## Objective
 Checking the reputation of IP addresses is a labor intensive activity. This script is designed to automate the process of extracting IP addresses from a PCAP file, checking their reputation against AbuseIPDB, and returning selected data.
 
-The script is designed as a proof of concept script and not intended for actual use.
+The script is intended as a proof of concept and not for use in live environments.
 
 ## Main Components
 For full details, see the attached Word document. The main components of the script are as follows:
@@ -14,3 +14,5 @@ For full details, see the attached Word document. The main components of the scr
 4. Extract selected fields from the JSON data returned by AbuseIPDB.
 5. Sort IP addresses and associated data according to IP reputation.
 6. Write the results to an output file.
+
+![image](https://github.com/user-attachments/assets/116dabd8-c645-48ba-b12f-c7fc8ef7f8e8)
