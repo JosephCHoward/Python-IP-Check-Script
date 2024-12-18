@@ -1,7 +1,6 @@
 # Joseph Howard
-# Python Scripting Course
+# Python IP Reputation Check Script
 # June 25, 2024
-# Final Project
 
 import pyshark
 import requests
