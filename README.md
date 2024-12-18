@@ -1,10 +1,10 @@
 # Python IP Reputation Check Script
 This script was created as the capstone project for the Security Scripting course in my MS in Information Security program at Champlain College.
 
+The script is intended as a proof of concept and not for use in live environments.
+
 ## Objective
 Checking the reputation of IP addresses is a labor intensive activity. This script is designed to automate the process of extracting IP addresses from a PCAP file, checking their reputation against AbuseIPDB, and returning selected data.
-
-The script is intended as a proof of concept and not for use in live environments.
 
 ## Main Components
 For full details, see the attached Word document. The main components of the script are as follows:
